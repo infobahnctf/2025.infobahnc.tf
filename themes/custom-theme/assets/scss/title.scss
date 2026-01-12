@@ -1,0 +1,53 @@
+.road-title {
+    position: relative;
+    padding: 3% 0 !important;
+    /* gives the content breathing room vertically */
+}
+
+.road-middle {
+    display: flex;
+    align-items: center;
+    /* vertical align text + line */
+    justify-content: center;
+    gap: 1rem;
+    /* spacing between line & text */
+}
+
+/* the dashed middle line */
+.road-border.dashed {
+    background: transparent;
+    flex: 1;
+    /* stretch */
+    border-bottom: 4px dashed #B68757;
+    height: 0;
+    z-index:1; 
+    /* let border be the “line” */
+}
+
+.road-middle > h1,.road-back {
+    z-index:2;
+    background-color: var(--bs-dark);
+}
+
+/* shared */
+.road-border {
+    background-color: #B68757;
+    height: 2%;
+    /* thickness as % of height */
+    width: 100%;
+    position: absolute;
+    left: 0;
+    border-radius: 2px;
+}
+
+/* top */
+.road-border.top {
+    top: 2%;
+    /* offset FROM the top, relative to height */
+}
+
+/* bottom */
+.road-border.bottom {
+    bottom: 2%;
+    /* offset FROM the bottom */
+}

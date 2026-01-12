@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-07T21:49:17.871132+00:00", "type": "correct", "id": 2912, "challenge_id": 36, "challenge": {"value": 100, "name": "//", "category": "beginner", "id": 36}, "team": {"name": "ssh@uzl", "id": 697}, "user": {"name": "username", "id": 1556}}], "meta": {"count": 1}}

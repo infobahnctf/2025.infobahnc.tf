@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-09T08:43:55.890105+00:00", "type": "correct", "id": 8159, "challenge_id": 2, "challenge": {"value": 100, "name": "bitset", "category": "beginner", "id": 2}, "team": {"name": "ByteTheCookies", "id": 10}, "user": {"name": "giovanniiannaccone", "id": 1131}}], "meta": {"count": 1}}

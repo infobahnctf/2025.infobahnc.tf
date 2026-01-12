@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T17:28:23.352727+00:00", "type": "correct", "id": 6897, "challenge_id": 37, "challenge": {"value": 100, "name": "Linearity", "category": "beginner", "id": 37}, "team": {"name": "BIGZ NAS", "id": 55}, "user": {"name": "Guppy's Paw", "id": 91}}], "meta": {"count": 1}}

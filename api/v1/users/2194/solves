@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T19:33:50.758495+00:00", "type": "correct", "id": 7213, "challenge_id": 37, "challenge": {"value": 100, "name": "Linearity", "category": "beginner", "id": 37}, "team": {"name": "Squid 1nc.", "id": 1150}, "user": {"name": "Squidz", "id": 2194}}], "meta": {"count": 1}}

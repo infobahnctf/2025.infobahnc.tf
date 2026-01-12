@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-07T17:45:14.013426+00:00", "type": "correct", "id": 1205, "challenge_id": 19, "challenge": {"value": 240, "name": "The Butterfly effect", "category": "pwn", "id": 19}, "team": {"name": "https://kqx.io/", "id": 729}, "user": {"name": "Erge2", "id": 1447}}], "meta": {"count": 1}}

@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-07T22:34:04.718532+00:00", "type": "correct", "id": 3081, "challenge_id": 35, "challenge": {"value": 100, "name": "pyjail", "category": "beginner", "id": 35}, "team": {"name": "redpanda", "id": 866}, "user": {"name": "ahmqd", "id": 1709}}], "meta": {"count": 1}}

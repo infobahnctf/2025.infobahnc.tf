@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T08:50:15.279663+00:00", "type": "correct", "id": 4924, "challenge_id": 19, "challenge": {"value": 240, "name": "The Butterfly effect", "category": "pwn", "id": 19}, "team": {"name": "The Apostles", "id": 1020}, "user": {"name": "Matthias", "id": 1979}}], "meta": {"count": 1}}

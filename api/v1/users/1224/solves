@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-07T23:29:18.005696+00:00", "type": "correct", "id": 3237, "challenge_id": 2, "challenge": {"value": 100, "name": "bitset", "category": "beginner", "id": 2}, "team": {"name": "ROPgods", "id": 201}, "user": {"name": "Reda", "id": 1224}}], "meta": {"count": 1}}

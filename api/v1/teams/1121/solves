@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T07:17:01.716396+00:00", "type": "correct", "id": 4535, "challenge_id": 7, "challenge": {"value": 100, "name": "Sponsors", "category": "misc", "id": 7}, "team": {"name": "VIPER", "id": 1121}, "user": {"name": "kvivek", "id": 2142}}], "meta": {"count": 1}}

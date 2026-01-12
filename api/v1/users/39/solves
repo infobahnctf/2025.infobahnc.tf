@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T09:43:44.070922+00:00", "type": "correct", "id": 5139, "challenge_id": 26, "challenge": {"value": 100, "name": "YAOL", "category": "crypto", "id": 26}, "team": {"name": "NeuralMeltdown", "id": 34}, "user": {"name": "Mnemty", "id": 39}}], "meta": {"count": 1}}

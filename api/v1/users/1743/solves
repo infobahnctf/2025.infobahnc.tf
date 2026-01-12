@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-09T04:46:41.931149+00:00", "type": "correct", "id": 7874, "challenge_id": 4, "challenge": {"value": 100, "name": "Risky Chain", "category": "misc", "id": 4}, "team": {"name": "HackPack", "id": 717}, "user": {"name": "Otto Von Sigma", "id": 1743}}], "meta": {"count": 1}}

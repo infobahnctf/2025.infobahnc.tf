@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T21:37:56.603882+00:00", "type": "correct", "id": 7396, "challenge_id": 12, "challenge": {"value": 100, "name": "PatchNotes CMS", "category": "web", "id": 12}, "team": {"name": "Frog Council", "id": 191}, "user": {"name": "froj", "id": 367}}], "meta": {"count": 1}}

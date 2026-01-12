@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T16:44:27.014935+00:00", "type": "correct", "id": 6783, "challenge_id": 9, "challenge": {"value": 240, "name": "SAML", "category": "web", "id": 9}, "team": {"name": "PKMKB", "id": 1291}, "user": {"name": "MrMcAdams", "id": 2422}}], "meta": {"count": 1}}

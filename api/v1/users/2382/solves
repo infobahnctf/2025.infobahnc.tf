@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T14:52:45.536002+00:00", "type": "correct", "id": 6432, "challenge_id": 2, "challenge": {"value": 100, "name": "bitset", "category": "beginner", "id": 2}, "team": {"name": "DomainX", "id": 335}, "user": {"name": "0verwatch", "id": 2382}}], "meta": {"count": 1}}

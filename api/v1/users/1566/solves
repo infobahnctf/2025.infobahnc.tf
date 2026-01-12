@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T16:29:00.126413+00:00", "type": "correct", "id": 6743, "challenge_id": 12, "challenge": {"value": 100, "name": "PatchNotes CMS", "category": "web", "id": 12}, "team": {"name": "Pwnissa", "id": 116}, "user": {"name": "0x1Dav", "id": 1566}}], "meta": {"count": 1}}

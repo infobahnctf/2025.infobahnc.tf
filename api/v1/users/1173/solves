@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-07T19:03:35.871201+00:00", "type": "correct", "id": 2103, "challenge_id": 37, "challenge": {"value": 100, "name": "Linearity", "category": "beginner", "id": 37}, "team": {"name": "CyberAze", "id": 567}, "user": {"name": "dayiii", "id": 1173}}], "meta": {"count": 1}}

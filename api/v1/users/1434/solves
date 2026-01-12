@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T16:24:08.507599+00:00", "type": "correct", "id": 6726, "challenge_id": 40, "challenge": {"value": 100, "name": "Padoru Pwn Parade", "category": "web", "id": 40}, "team": {"name": "0xfun", "id": 649}, "user": {"name": "tankist", "id": 1434}}], "meta": {"count": 1}}

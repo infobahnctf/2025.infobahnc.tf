@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-09T13:27:04.509675+00:00", "type": "correct", "id": 8424, "challenge_id": 7, "challenge": {"value": 100, "name": "Sponsors", "category": "misc", "id": 7}, "team": {"name": "small", "id": 917}, "user": {"name": "small", "id": 1802}}], "meta": {"count": 1}}

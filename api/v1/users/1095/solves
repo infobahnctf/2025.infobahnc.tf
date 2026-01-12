@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T04:12:03.753192+00:00", "type": "correct", "id": 3932, "challenge_id": 34, "challenge": {"value": 100, "name": "Book Manager", "category": "beginner", "id": 34}, "team": {"name": "squ", "id": 566}, "user": {"name": "SQU", "id": 1095}}], "meta": {"count": 1}}

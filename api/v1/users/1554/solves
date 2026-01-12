@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-09T15:47:31.033511+00:00", "type": "correct", "id": 8607, "challenge_id": 9, "challenge": {"value": 240, "name": "SAML", "category": "web", "id": 9}, "team": {"name": "blackpinker", "id": 564}, "user": {"name": "d2p", "id": 1554}}], "meta": {"count": 1}}

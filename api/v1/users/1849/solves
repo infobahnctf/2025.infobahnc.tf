@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-07T23:04:24.214362+00:00", "type": "correct", "id": 3189, "challenge_id": 8, "challenge": {"value": 100, "name": "Sanity Check", "category": "misc", "id": 8}, "team": {"name": "Tropical Hunters", "id": 348}, "user": {"name": "nightwing", "id": 1849}}], "meta": {"count": 1}}

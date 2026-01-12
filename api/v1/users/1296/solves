@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-07T17:00:42.557605+00:00", "type": "correct", "id": 27, "challenge_id": 7, "challenge": {"value": 100, "name": "Sponsors", "category": "misc", "id": 7}, "team": {"name": "HiRes Lossless", "id": 160}, "user": {"name": "zagot", "id": 1296}}], "meta": {"count": 1}}

@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-07T17:05:48.267642+00:00", "type": "correct", "id": 234, "challenge_id": 7, "challenge": {"value": 100, "name": "Sponsors", "category": "misc", "id": 7}, "team": {"name": "Ahmeng Labs", "id": 75}, "user": {"name": "ROT69", "id": 254}}], "meta": {"count": 1}}

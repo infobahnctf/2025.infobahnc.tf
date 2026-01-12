@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T09:37:55.084864+00:00", "type": "correct", "id": 5110, "challenge_id": 32, "challenge": {"value": 100, "name": "blinkenlights", "category": "beginner", "id": 32}, "team": {"name": "vina", "id": 1064}, "user": {"name": "nguyenthutra", "id": 2147}}], "meta": {"count": 1}}

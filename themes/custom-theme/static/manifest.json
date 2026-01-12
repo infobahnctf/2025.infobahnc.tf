@@ -1,0 +1,185 @@
+{
+  "assets/js/index.js": {
+    "file": "js/index-303cf568.js",
+    "src": "assets/js/index.js",
+    "isEntry": true
+  },
+  "assets/js/baseindex.js": {
+    "file": "js/baseindex.js",
+    "src": "assets/js/baseindex.js",
+    "isEntry": true
+  },
+  "assets/js/basejs.js": {
+    "file": "js/basejs-a02b586d.js",
+    "src": "assets/js/basejs.js",
+    "isEntry": true
+  },
+  "assets/js/navjs.js": {
+    "file": "js/navjs-c7d5d055.js",
+    "src": "assets/js/navjs.js",
+    "isEntry": true
+  },
+  "assets/js/page.js": {
+    "file": "js/page-3ba09d47.js",
+    "src": "assets/js/page.js",
+    "isEntry": true,
+    "imports": [
+      "assets/js/index.js"
+    ]
+  },
+  "assets/js/setup.js": {
+    "file": "js/setup-4520d61b.js",
+    "src": "assets/js/setup.js",
+    "isEntry": true,
+    "imports": [
+      "assets/js/index.js"
+    ]
+  },
+  "assets/js/settings.js": {
+    "file": "js/settings-3371a9d3.js",
+    "src": "assets/js/settings.js",
+    "isEntry": true,
+    "imports": [
+      "assets/js/index.js",
+      "_clipboard-04bc0c72.js"
+    ]
+  },
+  "assets/js/challenges.js": {
+    "file": "js/challenges-d160d8c8.js",
+    "src": "assets/js/challenges.js",
+    "isEntry": true,
+    "imports": [
+      "assets/js/index.js"
+    ]
+  },
+  "assets/js/scoreboard.js": {
+    "file": "js/scoreboard-dd3194f2.js",
+    "src": "assets/js/scoreboard.js",
+    "isEntry": true,
+    "imports": [
+      "assets/js/index.js",
+      "_index-c6c216cd.js"
+    ]
+  },
+  "assets/js/notifications.js": {
+    "file": "js/notifications-fca15e0a.js",
+    "src": "assets/js/notifications.js",
+    "isEntry": true,
+    "imports": [
+      "assets/js/index.js"
+    ]
+  },
+  "assets/js/teams/public.js": {
+    "file": "js/teams_public-22a99e5d.js",
+    "src": "assets/js/teams/public.js",
+    "isEntry": true,
+    "imports": [
+      "assets/js/index.js",
+      "_userscore-5075efc3.js",
+      "_index-c6c216cd.js"
+    ]
+  },
+  "assets/js/teams/private.js": {
+    "file": "js/teams_private-eed68352.js",
+    "src": "assets/js/teams/private.js",
+    "isEntry": true,
+    "imports": [
+      "assets/js/index.js",
+      "_clipboard-04bc0c72.js",
+      "_userscore-5075efc3.js",
+      "_index-c6c216cd.js"
+    ]
+  },
+  "assets/js/teams/list.js": {
+    "file": "js/teams_list-c6da532e.js",
+    "src": "assets/js/teams/list.js",
+    "isEntry": true,
+    "imports": [
+      "assets/js/index.js"
+    ]
+  },
+  "assets/js/users/public.js": {
+    "file": "js/users_public-7ac793e5.js",
+    "src": "assets/js/users/public.js",
+    "isEntry": true,
+    "imports": [
+      "assets/js/index.js",
+      "_userscore-5075efc3.js",
+      "_index-c6c216cd.js"
+    ]
+  },
+  "assets/js/users/private.js": {
+    "file": "js/users_private-bbd99fc1.js",
+    "src": "assets/js/users/private.js",
+    "isEntry": true,
+    "imports": [
+      "assets/js/index.js",
+      "_userscore-5075efc3.js",
+      "_index-c6c216cd.js"
+    ]
+  },
+  "assets/js/users/list.js": {
+    "file": "js/users_list-b934f275.js",
+    "src": "assets/js/users/list.js",
+    "isEntry": true,
+    "imports": [
+      "assets/js/index.js"
+    ]
+  },
+  "assets/js/color_mode_switcher.js": {
+    "file": "js/color_mode_switcher-8e8dcbb4.js",
+    "src": "assets/js/color_mode_switcher.js",
+    "isEntry": true
+  },
+  "_clipboard-04bc0c72.js": {
+    "file": "js/clipboard-04bc0c72.js",
+    "imports": [
+      "assets/js/index.js"
+    ]
+  },
+  "_index-c6c216cd.js": {
+    "file": "js/index-c6c216cd.js"
+  },
+  "_userscore-5075efc3.js": {
+    "file": "js/userscore-5075efc3.js",
+    "imports": [
+      "assets/js/index.js",
+      "_index-c6c216cd.js"
+    ]
+  },
+  "assets/scss/fonts.scss": {
+    "file": "assets/fonts-d6d7f915.css",
+    "src": "assets/scss/fonts.scss",
+    "isEntry": true
+  },
+  "assets/scss/nav.scss": {
+    "file": "assets/nav-d5964e5c.css",
+    "src": "assets/scss/nav.scss",
+    "isEntry": true
+  },
+  "assets/scss/title.scss": {
+    "file": "assets/title-df835f08.css",
+    "src": "assets/scss/title.scss",
+    "isEntry": true
+  },
+  "assets/scss/base.scss": {
+    "file": "assets/base-9eb3281c.css",
+    "src": "assets/scss/base.scss",
+    "isEntry": true
+  },
+  "assets/scss/augui.scss": {
+    "file": "assets/augui-1df94b53.css",
+    "src": "assets/scss/augui.scss",
+    "isEntry": true
+  },
+  "assets/scss/nes.scss": {
+    "file": "assets/nes-454338e6.css",
+    "src": "assets/scss/nes.scss",
+    "isEntry": true
+  },
+  "assets/scss/main.scss": {
+    "file": "assets/main-a5415352.css",
+    "src": "assets/scss/main.scss",
+    "isEntry": true
+  }
+}

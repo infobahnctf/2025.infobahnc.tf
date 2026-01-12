@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T20:22:00.795421+00:00", "type": "correct", "id": 7310, "challenge_id": 7, "challenge": {"value": 100, "name": "Sponsors", "category": "misc", "id": 7}, "team": {"name": "Fox@Flag", "id": 109}, "user": {"name": "CyberFox", "id": 210}}], "meta": {"count": 1}}

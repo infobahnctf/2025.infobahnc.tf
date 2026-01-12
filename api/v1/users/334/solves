@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T02:35:24.654961+00:00", "type": "correct", "id": 3694, "challenge_id": 8, "challenge": {"value": 100, "name": "Sanity Check", "category": "misc", "id": 8}, "team": {"name": "FlagHunters243", "id": 171}, "user": {"name": "Black Hunter", "id": 334}}], "meta": {"count": 1}}

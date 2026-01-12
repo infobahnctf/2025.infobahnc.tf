@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T21:49:46.573733+00:00", "type": "correct", "id": 7402, "challenge_id": 7, "challenge": {"value": 100, "name": "Sponsors", "category": "misc", "id": 7}, "team": {"name": "hackratic", "id": 1317}, "user": {"name": "now.sh", "id": 2460}}], "meta": {"count": 1}}

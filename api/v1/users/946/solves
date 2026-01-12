@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-09T14:18:02.715898+00:00", "type": "correct", "id": 8479, "challenge_id": 20, "challenge": {"value": 100, "name": "pwnset", "category": "pwn", "id": 20}, "team": {"name": "full_weak_engineer", "id": 371}, "user": {"name": "gachagacha", "id": 946}}], "meta": {"count": 1}}

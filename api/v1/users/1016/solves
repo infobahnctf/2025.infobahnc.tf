@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T01:25:30.339886+00:00", "type": "correct", "id": 3469, "challenge_id": 40, "challenge": {"value": 100, "name": "Padoru Pwn Parade", "category": "web", "id": 40}, "team": {"name": "TCP1P", "id": 524}, "user": {"name": "dimas", "id": 1016}}], "meta": {"count": 1}}

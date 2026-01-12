@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T10:29:33.104670+00:00", "type": "correct", "id": 5332, "challenge_id": 37, "challenge": {"value": 100, "name": "Linearity", "category": "beginner", "id": 37}, "team": {"name": "CP_Z3R0", "id": 333}, "user": {"name": "pipipipi", "id": 632}}], "meta": {"count": 1}}

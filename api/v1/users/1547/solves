@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T17:48:08.416164+00:00", "type": "correct", "id": 6954, "challenge_id": 43, "challenge": {"value": 100, "name": "Exception Handler - Baby Steps", "category": "misc", "id": 43}, "team": {"name": "ssh@uzl", "id": 697}, "user": {"name": "CHRISTOPH", "id": 1547}}], "meta": {"count": 1}}

@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T13:39:55.953317+00:00", "type": "correct", "id": 6182, "challenge_id": 26, "challenge": {"value": 100, "name": "YAOL", "category": "crypto", "id": 26}, "team": {"name": "FERRET", "id": 183}, "user": {"name": "Flux", "id": 410}}], "meta": {"count": 1}}

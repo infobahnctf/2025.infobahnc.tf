@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-07T17:23:36.603250+00:00", "type": "correct", "id": 782, "challenge_id": 7, "challenge": {"value": 100, "name": "Sponsors", "category": "misc", "id": 7}, "team": {"name": "NAK-CTF", "id": 720}, "user": {"name": "timo", "id": 1416}}], "meta": {"count": 1}}

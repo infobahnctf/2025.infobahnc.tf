@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T13:35:45.120522+00:00", "type": "correct", "id": 6167, "challenge_id": 12, "challenge": {"value": 100, "name": "PatchNotes CMS", "category": "web", "id": 12}, "team": {"name": "v3locity", "id": 1212}, "user": {"name": "v3locity", "id": 2291}}], "meta": {"count": 1}}

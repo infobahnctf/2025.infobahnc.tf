@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-07T22:17:34.688191+00:00", "type": "correct", "id": 3032, "challenge_id": 8, "challenge": {"value": 100, "name": "Sanity Check", "category": "misc", "id": 8}, "team": {"name": "KCL CTF", "id": 370}, "user": {"name": "Pika16", "id": 693}}], "meta": {"count": 1}}

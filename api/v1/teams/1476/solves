@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-09T12:42:19.586670+00:00", "type": "correct", "id": 8387, "challenge_id": 2, "challenge": {"value": 100, "name": "bitset", "category": "beginner", "id": 2}, "team": {"name": "just Garzola", "id": 1476}, "user": {"name": "Garzola", "id": 2687}}], "meta": {"count": 1}}

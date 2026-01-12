@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T19:42:21.781065+00:00", "type": "correct", "id": 7242, "challenge_id": 7, "challenge": {"value": 100, "name": "Sponsors", "category": "misc", "id": 7}, "team": {"name": "shellpwn", "id": 1368}, "user": {"name": "m3ch4n1k", "id": 2541}}], "meta": {"count": 1}}

@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-09T12:02:05.603161+00:00", "type": "correct", "id": 8361, "challenge_id": 2, "challenge": {"value": 100, "name": "bitset", "category": "beginner", "id": 2}, "team": {"name": "VGU_Cypher", "id": 560}, "user": {"name": "MoonJuicee", "id": 1904}}], "meta": {"count": 1}}

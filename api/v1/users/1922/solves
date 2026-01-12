@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-09T08:37:39.173822+00:00", "type": "correct", "id": 8150, "challenge_id": 32, "challenge": {"value": 100, "name": "blinkenlights", "category": "beginner", "id": 32}, "team": {"name": "0-Day nyan", "id": 389}, "user": {"name": "honobono", "id": 1922}}], "meta": {"count": 1}}

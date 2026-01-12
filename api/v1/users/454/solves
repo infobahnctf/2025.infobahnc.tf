@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T20:34:44.910112+00:00", "type": "correct", "id": 7335, "challenge_id": 5, "challenge": {"value": 100, "name": "speechless", "category": "misc", "id": 5}, "team": {"name": "LeetSh4d0ws", "id": 240}, "user": {"name": "imangion", "id": 454}}], "meta": {"count": 1}}

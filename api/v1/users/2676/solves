@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-09T10:13:51.177885+00:00", "type": "correct", "id": 8257, "challenge_id": 8, "challenge": {"value": 100, "name": "Sanity Check", "category": "misc", "id": 8}, "team": {"name": "worstctfplayer", "id": 1261}, "user": {"name": "hikki", "id": 2676}}], "meta": {"count": 1}}

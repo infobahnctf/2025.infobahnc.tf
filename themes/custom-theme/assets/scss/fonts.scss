@@ -1,0 +1,9 @@
+@use "sass:map";
+@use "~/@fontsource/press-start-2p/scss/mixins.scss" as PressStart;
+
+@include PressStart.faces(
+  $subsets: all,
+  $weights: (400), // Press Start 2P only has 400
+  $styles: all,
+  $directory: "../webfonts"
+);

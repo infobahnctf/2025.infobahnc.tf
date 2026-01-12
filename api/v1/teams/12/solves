@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-07T20:19:38.489945+00:00", "type": "correct", "id": 2561, "challenge_id": 8, "challenge": {"value": 100, "name": "Sanity Check", "category": "misc", "id": 8}, "team": {"name": "Georgian Mess", "id": 12}, "user": {"name": "Old_Dog", "id": 7}}], "meta": {"count": 1}}

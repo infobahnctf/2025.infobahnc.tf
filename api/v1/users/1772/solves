@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-07T22:45:58.745654+00:00", "type": "correct", "id": 3136, "challenge_id": 5, "challenge": {"value": 100, "name": "speechless", "category": "misc", "id": 5}, "team": {"name": "HackPack", "id": 717}, "user": {"name": "1upbyte", "id": 1772}}], "meta": {"count": 1}}

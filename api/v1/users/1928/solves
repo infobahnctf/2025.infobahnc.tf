@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-09T15:11:29.191063+00:00", "type": "correct", "id": 8569, "challenge_id": 40, "challenge": {"value": 100, "name": "Padoru Pwn Parade", "category": "web", "id": 40}, "team": {"name": "blackpinker", "id": 564}, "user": {"name": "bkash", "id": 1928}}], "meta": {"count": 1}}

@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-07T19:22:14.127839+00:00", "type": "correct", "id": 2214, "challenge_id": 8, "challenge": {"value": 100, "name": "Sanity Check", "category": "misc", "id": 8}, "team": {"name": "HackPack", "id": 717}, "user": {"name": "nixith", "id": 1685}}], "meta": {"count": 1}}

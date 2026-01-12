@@ -1,0 +1,114 @@
+nav>* {
+    font-family: 'Press Start 2P';
+}
+
+.highway-navbar .navbar-toggler {
+    z-index: 1002;
+    display: block !important;
+}
+
+
+.highway-navbar {
+    background-color: transparent !important;
+    width: 100%;
+    display: none;
+}
+
+.highway-navbar-sign {
+    background-color: transparent !important;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* keep container centered */
+    align-items: center;
+}
+
+.highway-navbar-sign .navbar-toggler {
+    z-index: 1002;
+    display: block !important;
+}
+
+
+.highway-navbar>.rod {
+    width: inherit;
+    background-color: #4b525d !important;
+    outline: 0.2rem solid #272727;
+    border-color: #4b525d !important;
+    border: 0.5rem solid;
+    z-index: 1000;
+    pointer-events: none;
+}
+
+.highway-navbar-sign>.rod {
+    flex: 0 0 1%;
+    background-color: #4b525d !important;
+    outline: 0.2rem solid #272727;
+    border-color: #4b525d !important;
+    border: 0.5rem solid;
+    z-index: 1000;
+    pointer-events: none;
+}
+
+
+.highway-navbar>.container {
+    width: auto;
+    position: relative;
+    /* instead of fixed */
+    z-index: 1001;
+    /* lower than parent */
+    background-color: #272727 !important;
+    padding: 10px 20px;
+    border: 1rem solid #4b525d;
+    outline: 0.2rem solid #272727;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    font-family: 'Arial Black', sans-serif;
+    max-width: fit-content !important;
+}
+
+.highway-navbar-sign>.container {
+    flex: 0 0 3%;
+    z-index: 1001;
+    /* your look */
+    background-color: #272727 !important;
+    padding: 10px 20px;
+    border: 1rem solid #4b525d;
+    outline: 0.2rem solid #272727;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
+    font-family: 'Arial Black', sans-serif;
+
+    /* THIS makes it a circle */
+    border-radius: 50%;
+    aspect-ratio: 1;
+    /* perfect circle */
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (width<=700px) {
+    .highway-navbar-sign>.rod {
+        display: none;
+    }
+    .highway-navbar-sign > .container {
+        position: fixed;     /* this is the key change */
+        bottom: 1rem;        /* whatever spacing you want */
+        right: 1rem;
+        width: 2px;
+    }
+}
+
+@media (width>700px){
+    #collapseToggler {
+        display: none !important;
+    }
+}
+
+.highway-navbar-sign::after {
+    content: "";
+    flex: 1 1 80%;
+    /* empty space filler */
+}

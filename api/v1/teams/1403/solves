@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-09T09:42:32.786049+00:00", "type": "correct", "id": 8232, "challenge_id": 2, "challenge": {"value": 100, "name": "bitset", "category": "beginner", "id": 2}, "team": {"name": "AFK", "id": 1403}, "user": {"name": "Nameee", "id": 2592}}], "meta": {"count": 1}}

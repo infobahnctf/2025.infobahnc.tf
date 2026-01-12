@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-07T17:38:52.568792+00:00", "type": "correct", "id": 1088, "challenge_id": 37, "challenge": {"value": 100, "name": "Linearity", "category": "beginner", "id": 37}, "team": {"name": "Ilostmyphone", "id": 261}, "user": {"name": "sw33t", "id": 488}}], "meta": {"count": 1}}

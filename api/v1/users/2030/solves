@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-09T14:08:13.942585+00:00", "type": "correct", "id": 8471, "challenge_id": 20, "challenge": {"value": 100, "name": "pwnset", "category": "pwn", "id": 20}, "team": {"name": "H^3", "id": 255}, "user": {"name": "hkbin", "id": 2030}}], "meta": {"count": 1}}

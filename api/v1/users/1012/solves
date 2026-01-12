@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-09T12:45:26.426096+00:00", "type": "correct", "id": 8392, "challenge_id": 18, "challenge": {"value": 180, "name": "Book Manager V2", "category": "pwn", "id": 18}, "team": {"name": "HCS", "id": 308}, "user": {"name": "pussi", "id": 1012}}], "meta": {"count": 1}}

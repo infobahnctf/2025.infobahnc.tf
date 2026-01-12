@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-07T17:16:49.257798+00:00", "type": "correct", "id": 600, "challenge_id": 37, "challenge": {"value": 100, "name": "Linearity", "category": "beginner", "id": 37}, "team": {"name": "IQunder100k", "id": 292}, "user": {"name": "almahose", "id": 1271}}], "meta": {"count": 1}}

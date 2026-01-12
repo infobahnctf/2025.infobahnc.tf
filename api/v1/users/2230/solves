@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-09T05:01:48.101931+00:00", "type": "correct", "id": 7888, "challenge_id": 19, "challenge": {"value": 240, "name": "The Butterfly effect", "category": "pwn", "id": 19}, "team": {"name": "The Amazing Digital Orange!", "id": 385}, "user": {"name": "deayzl", "id": 2230}}], "meta": {"count": 1}}

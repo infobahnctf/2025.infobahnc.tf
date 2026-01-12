@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-08T04:16:44.827945+00:00", "type": "correct", "id": 3946, "challenge_id": 2, "challenge": {"value": 100, "name": "bitset", "category": "beginner", "id": 2}, "team": {"name": "Tampan dan Berani", "id": 605}, "user": {"name": "val", "id": 1972}}], "meta": {"count": 1}}

@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-07T17:02:02.242606+00:00", "type": "correct", "id": 68, "challenge_id": 7, "challenge": {"value": 100, "name": "Sponsors", "category": "misc", "id": 7}, "team": {"name": "Ctfimmunity", "id": 267}, "user": {"name": "Wixwere", "id": 500}}], "meta": {"count": 1}}

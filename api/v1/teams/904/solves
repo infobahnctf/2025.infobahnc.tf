@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-11-07T21:46:26.364534+00:00", "type": "correct", "id": 2903, "challenge_id": 7, "challenge": {"value": 100, "name": "Sponsors", "category": "misc", "id": 7}, "team": {"name": "CaptchaTheFlag", "id": 904}, "user": {"name": "dashamanator", "id": 1778}}], "meta": {"count": 1}}
